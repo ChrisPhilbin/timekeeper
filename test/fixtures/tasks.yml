@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  check_out: 2020-12-27 08:12:15
+  check_in: 2020-12-27 08:12:15
+  total_time: 1
+  project: one
+  finished: false
+
+two:
+  name: MyString
+  description: MyText
+  check_out: 2020-12-27 08:12:15
+  check_in: 2020-12-27 08:12:15
+  total_time: 1
+  project: two
+  finished: false
